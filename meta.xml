@@ -1,0 +1,5 @@
+<meta>
+    <info author="MARD" type="script" name="Call Faction 110" version="1.0.0" description="A smart system for calling the police." />
+    <script src="Emergency-Call.lua" type="server" />
+
+</meta>
